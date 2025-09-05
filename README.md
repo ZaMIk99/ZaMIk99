@@ -14,8 +14,8 @@ Developer passionate about creating useful tools and exploring new technologies.
 ## 🛠️ Technologies & Tools
 
 ```
-Languages    : Python, JavaScript, Shell
-Tools        : Git, Docker, Linux
+Languages    : Python
+Tools        : Git, Docker, Linux, Windows, Pycharm
 Interests    : CLI Tools, Automation, Open Source
 ```
 
