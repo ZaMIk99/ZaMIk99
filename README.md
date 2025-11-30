@@ -34,7 +34,6 @@ Interests    : CLI Tools, Automation, Open Source
 ## 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ZaMIk-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ZaMIk)
-[![GitHub](https://img.shields.io/badge/GitHub-ZaMIk99-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZaMIk99)
 
 ---
 
